@@ -24,6 +24,7 @@ public:
     }
 };
 
+
 int main() {
     vector<char> letters = {'a','b','c','f'};
     Solution s;
